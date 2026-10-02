@@ -1,0 +1,4 @@
+plugins:
+  wb_ai_assistant_upload_fix_enabled:
+    default: true
+    client: false

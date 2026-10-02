@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    wb_ai_assistant_upload_fix_enabled: "Do not send the model uploads attached to the bot's own posts. Such a file ends up in an assistant message, where the Responses API allows text only and rejects the whole request (400), after which the conversation stops answering. Turn off only for testing."
